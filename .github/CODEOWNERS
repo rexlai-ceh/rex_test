@@ -1,7 +1,7 @@
 # specify the approvers for pull request on different directories
 
 # fdri team directories
-/test1/ 
+**/test1/ 
 
 # nc-uk team directories
-/test2/ @rexlai246
+**/test2/ @rexlai246
